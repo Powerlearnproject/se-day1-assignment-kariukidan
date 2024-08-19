@@ -57,4 +57,4 @@ Involves crafting questions for AI to ensure that one gets the best possible res
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague: How to make food?
 Improved: what is the recipe for egg fried rice?
-the improved prompt is specific about the food that the person wants to make and they can therefore get a response that is useful to their needs.
+the improved prompt is specific about the food that the person wants to make and they can therefore get a response that is useful to their needs. 
